@@ -1,0 +1,28 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F5F5F5; 
+    color: #333333; 
+}
+
+.navbar {
+    background-color: #1F497D;
+}
+
+.navbar-nav .nav-link {
+    color: #FFFFFF; 
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:active,
+.navbar-nav .nav-link:focus,
+.navbar-nav .nav-link.active {
+    color: #333333; 
+}
+h6 {
+    color: #7BB661; 
+}
+
